@@ -1,4 +1,4 @@
-# Lower-Level-Asteroid-Game-Enging-With-Python
+# Lower-Level-Asteroid-Game-Engine-With-Python
 Algorithm based Asteroid-Rock game using Pygame and Numpy on Python
 
 
